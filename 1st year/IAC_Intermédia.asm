@@ -13,10 +13,6 @@
 
 
 ;  UC de Introducao a Arquitetura de Computadores (IAC) - Fase Intermedia do Projeto
-;  David Ferreira de Sousa Duque     || 93698
-;  Eduardo Filipe Custodio de Jesus  || 93707
-;  Joao Francisco Pereira Costa      || 94237
-
 
 ; Ano Letivo 2018/2019
 ; ==================================================================================
