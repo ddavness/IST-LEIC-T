@@ -24,7 +24,7 @@
 ; ============================================================================================================
 ; ===========================================================================================================
 
-; Nota: Ao contrário daquilo que foi feito na versão intermédia, foi feito um esforço para gerir os registos de uma maneira mais eficiente (menos registos "ocupados" ao mesmo tempo)
+; Nota: A versão final do projeto não contém todas as funcionalidades pedidas no enunciado.
 
 ; POWERED BY PEPE(TM)
 
