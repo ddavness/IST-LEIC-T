@@ -1,4 +1,3 @@
-# David Ferreira de Sousa Duque | 93698
 # IST @ UL | UC de Fundamentos de Programacao - LEIC-T | Primeiro Projeto | 2018/2019
 
 # eh_tabuleiro:	universal >>> booleano
