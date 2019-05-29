@@ -11,5 +11,6 @@
 ## 2nd Semester
 - **IAED (1st Project):** 19.50/20.00
 - **IAED (2nd Project):** *Awaiting Grade*
+(These grades do not take in account the practic test).
 ------------
 - **LP (Project):** 20.00/20.00
