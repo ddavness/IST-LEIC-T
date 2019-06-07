@@ -10,7 +10,20 @@
 
 ## 2nd Semester
 - **IAED (1st Project):** 19.50/20.00
-- **IAED (2nd Project):** *Awaiting Grade*
-(These grades do not take in account the practic test).
+- **IAED (2nd Project):** 19.80/20.00
+
+*(These grades do not take in account the practic test). For the curious:*
+
+- **Practic Test:** 20.00/20.00
+- **Practic Grade Overall:** 20.00/20.00 __*__
+
 ------------
 - **LP (Project):** 20.00/20.00
+
+
+__*__*it actually did bump above 20 (roughly 20.07) due to the weird global score formula:*
+
+!["A very weird formula to calculate grades tbh"](.hide/math.gif)
+- *Where P is the practic component grade*
+- *p1 and p2 are the projects 1 and 2 respectively*
+- *T is the practical test*
