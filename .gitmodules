@@ -1,0 +1,6 @@
+[submodule ".\\2nd_year\\SO"]
+	path = .\\2nd_year\\SO
+	url = https://github.com/ddavness/IST-SO-1920.git
+[submodule ".\\2nd_year\\PO"]
+	path = .\\2nd_year\\PO
+	url = https://github.com/ddavness/IST-PO-1920.git
