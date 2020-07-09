@@ -11,3 +11,7 @@
 - **PO (Final Submission):** 10.18/11.00 *(18.51/20.00)*
 - **PO (Final):** 18.22/20.00
 - **PO (Final after practical test):** 18.67/20.00
+
+## 2nd Semester
+- **ASA (1st Project)** 19.30/20.00
+- **ASA (2nd Project)** 16.70/20.00

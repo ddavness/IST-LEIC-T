@@ -4,3 +4,6 @@
 [submodule "2nd_year/PO"]
 	path = 2nd_year/PO
 	url = https://github.com/ddavness/IST-PO-1920
+[submodule "2nd_year/ASA"]
+	path = 2nd_year/ASA
+	url = https://github.com/ddavness/IST-ASA-1920.git
